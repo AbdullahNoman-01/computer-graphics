@@ -1,17 +1,19 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.svg" alt="Computer Graphics Lab Banner" width="100%" />
+</p>
 
-# 🎨 Computer Graphics Lab — Final Prep
+<p align="center">
+  <a href="https://github.com/AbdullahNoman-01/computer-graphics/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/⬇️_Download_Full_Project_Folder-(ZIP)-007ec6?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP" height="42" />
+  </a>
+  <br/>
+  <sub>👉 <a href="https://github.com/AbdullahNoman-01/computer-graphics/archive/refs/heads/main.zip"><b>Click here to Direct Download the Complete Folder (ZIP)</b></a></sub>
+</p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Computer%20Graphics%20Lab&fontSize=42&fontAlignY=36&desc=Core%20Algorithms%20%26%20Visualizations%20in%20Python&descAlignY=58&descAlign=50)
-
-[![Download Repository](https://img.shields.io/badge/⬇️_Download_Full_Project_Folder-(ZIP)-007ec6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahNoman-01/computer-graphics/archive/refs/heads/main.zip)
-
-<br/>
-
-[![Python](https://img.shields.io/badge/Language-Python_3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-11557c?style=flat-square)](https://matplotlib.org/)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python_3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Library-Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
+</p>
 
 ---
 
